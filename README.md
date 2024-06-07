@@ -39,7 +39,7 @@ Follow these instructions to get the Blood Bank App up and running on your local
 
 1. Clone the repository:
    ```
-   git clone https://github.com/bhardwajdeepak0052/Blood-Bank-App.git
+   git clone https://github.com/Awan2002/Blood-Bank-App.git
    ```
 
 2. Install server dependencies:
